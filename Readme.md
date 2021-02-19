@@ -8,28 +8,29 @@ Project developed by Kucher-Savinski Nazar, Borodai Kateryna, Maximchuck Volodym
 4.	Опис технологій: Додаток буде розроблено на мові Swift, тому що дана мова являється найбільш поширеною для розробки на IOS. Ми використаємо MongoDB для backend, оскільки цей інструмент являється лідером серед подібних йому, також ми маємо досвід використання цього інструменту. Також для аналізу даних ми використаємо технології Data mining, оскільки потрібно буде правильно обробляти велику кількість вхідних даних. Наш застосунок буде розрахований на найновішу версію IOS - 14.4 та бета версію 14.5.
 5.	Прототип і список екранів:
 https://www.figma.com/file/RF9Z37uV8ui4afem0u1mF6/Untitled?node-id=0%3A3
-1. Головна сторінка (мій профіль) — Main page
 
-2. екран реєстрації— Sign up
+Головна сторінка (мій профіль) — Main page
 
-3. екран авторизації — Sign in
+екран реєстрації— Sign up
 
-4. екран відновлення паролю — Restoration page
+екран авторизації — Sign in
 
-5. екран друзів — Friends Page
+екран відновлення паролю — Restoration page
 
-6. екран пошуку друзів — Friends Find page
+екран друзів — Friends Page
 
-7. екран профілю іншого користувача — Common User Page
+екран пошуку друзів — Friends Find page
 
-8. екран вподобань користувача — Main Preferences page
+екран профілю іншого користувача — Common User Page
 
-9. екран пропозицій користувачеві для подарунку іншому користувачу — Common User Preferences
+екран вподобань користувача — Main Preferences page
 
-10. екран редагування профілю — Profile Edit page
+екран пропозицій користувачеві для подарунку іншому користувачу — Common User Preferences
 
-11. екран власних вподобань — Main Preferences page
+екран редагування профілю — Profile Edit page
 
-12. екран додавання вподобання — Add Preference page
+екран власних вподобань — Main Preferences page
 
-13. екран для редагування вподобань — Edit preference page 
+екран додавання вподобання — Add Preference page
+
+екран для редагування вподобань — Edit preference page 
