@@ -15,8 +15,6 @@ https://www.figma.com/file/RF9Z37uV8ui4afem0u1mF6/Untitled?node-id=0%3A3
 
 екран авторизації — Sign in
 
-екран відновлення паролю — Restoration page
-
 екран друзів — Friends Page
 
 екран пошуку друзів — Friends Find page
