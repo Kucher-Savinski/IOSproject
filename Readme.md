@@ -1,6 +1,6 @@
 Lab 3 - https://docs.google.com/document/d/1yd_tvu5t6vHBKzbUOvEzgI4KI9BOoRrYgA3Oen-7DIs/edit?usp=sharing
 
-Lab 4 - https://docs.google.com/document/d/12C4dSZONC5NngJcYQBc7Ar5yyODAcaSM8RM8uhHXJCk/edit
+Lab 4 - https://docs.google.com/document/d/1ZIPgAfkWI3_kIDmXJ-xXOmSK4d0dYPBlVgTW7ax7y5E/edit?usp=sharing
 
 Project developed by Kucher-Savinski Nazar, Borodai Kateryna, Maximchuck Volodymyr - students of IS-82 group
 
