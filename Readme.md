@@ -1,4 +1,4 @@
-Lab 3 - https://docs.google.com/document/d/1yd_tvu5t6vHBKzbUOvEzgI4KI9BOoRrYgA3Oen-7DIs/edit?usp=sharing
+Lab 3 - https://www.figma.com/file/UbrJqUcdhDBA3OKqkQ6wvX/Untitled?node-id=2%3A34
 
 Lab 4 - https://docs.google.com/document/d/1ZIPgAfkWI3_kIDmXJ-xXOmSK4d0dYPBlVgTW7ax7y5E/edit?usp=sharing
 
