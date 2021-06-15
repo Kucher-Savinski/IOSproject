@@ -1,8 +1,10 @@
 Lab 3 - https://docs.google.com/document/d/1yd_tvu5t6vHBKzbUOvEzgI4KI9BOoRrYgA3Oen-7DIs/edit?usp=sharing
 
-Lab 4 - https://docs.google.com/document/d/12C4dSZONC5NngJcYQBc7Ar5yyODAcaSM8RM8uhHXJCk/edit
+Lab 4 - https://docs.google.com/document/d/1ZIPgAfkWI3_kIDmXJ-xXOmSK4d0dYPBlVgTW7ax7y5E/edit?usp=sharing
 
-Project developed by Kucher-Savinski Nazar, Borodai Kateryna, Maximchuck Volodymyr - students of IS-82 group
+Lab 5 - https://docs.google.com/document/d/1joye23u7SsMrB-nWdCg4sSy7B4j9VDFtuhEb8gdHdw4/edit?usp=sharing
+
+Project developed by Kucher-Savinski Nazar, Borodai Kateryna, Maksymchuk Volodymyr - students of IS-82 group
 
 1.	Опис ідеї: Наша команда створить продукт, який буде допомогати дарувати один одному те, що вони хочуть на основі уподобань вказаних у профілі і зберігати власні вподобання.
 Список фіч: На основі вказаних у профіль предметів буде визначено, що можна запропонувати користувачу купити з його області інтересів.
